@@ -1,9 +1,9 @@
 <html lang ="en">
 	<head>
 		<title>Snowdays23</title>
-		<meta charset="utf-8">
+		<meta charset="utf-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<link rel="icon" type="image/x-icon" href="img/snowflake_logo.png" alt="A" width="35" height="35">
+		<link rel="icon" type="image/x-icon" href="img/snowflake_logo.png" alt="A" width="35" height="35"/>
         	<link rel= "stylesheet" href = "wip_style.css"/>
 	</head>
 	<body>
